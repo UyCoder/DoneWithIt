@@ -59,7 +59,15 @@ This project is licensed under the MIT License.
 
 ## Contact 📧
 
-For any questions or feedback, please contact me at [email address].
+## 👨‍💻 Contact me
+
+Author: [Ahmed Bughra](https://www.linkedin.com/in/ahmed-bughra/)
+</br>
+You can find me there: </br>
+[<img src='https://www.pngall.com/wp-content/uploads/2016/07/Linkedin-Download-PNG.png' alt='linkedin' height='20'>](https://www.linkedin.com/in/ahmed-bughra/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/Uycoder)
+[<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYcIooQ9bkjqGM1p-kwFPb0h4zZEVDzzRS3uhdg1sySKkvvNTE_wm5WTQWK36k7LH744w&usqp=CAU' alt='hackerrank' height='20'>](https://www.hackerrank.com/ahmedbughra) [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png' alt='stackoverflow' height='20'>](https://stackoverflow.com/users/16111723/ahmad-ali)
+
+For any questions or feedback, please contact me at ahmedBughra@gmail.com.
 
 ## Note 📌
 
