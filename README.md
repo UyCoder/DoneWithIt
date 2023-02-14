@@ -57,9 +57,8 @@ The project follows a basic structure with the following main directories:
 
 This project is licensed under the MIT License.
 
-## Contact 📧
 
-## 👨‍💻 Contact me
+## 👨‍💻 Contact me 📧
 
 Author: [Ahmed Bughra](https://www.linkedin.com/in/ahmed-bughra/)
 </br>
